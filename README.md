@@ -2,7 +2,7 @@
 
 A Python-based speech services API that provides:
 
-- **STT (Speech-to-Text)** using [Vosk]
+- **STT (Speech-to-Text)** using [Vosk/Whisper]
 - **TTS (Text-to-Speech)** using [Piper]
 - **VAD (Voice Activity Detection)** using [Silero VAD]
 - **Unified WebSocket API** for real-time audio streaming (STT + TTS + VAD combined)
